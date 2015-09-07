@@ -1,0 +1,209 @@
+"","userID","gender","age","country","employment","joining_purpose","quit_attempt_last_year","stopped_more_than_week","past_urges","urge_strength","onwake_smoke","confidence_to_quit","smoke_daily","no_cigs","weekly_spend_value","weekly_spend_currency","motivation","motivation_other","register_date","intervention","register_date_no_time"
+"37",4991,"female",50,"United Kingdom","Manual work",2,"Yes","Yes","A little of the time","Slight","Within 5 minutes",999,1,16,45,"1",1,"Look better","2015-04-04 19:51:44","BupaQuit_B",2015-04-04
+"38",5001,"male",33,"United Kingdom","Manual work",1,"No","Yes","Some of the time","Moderate","6-30 minutes",6,1,10,28,"1",1,"999","2015-04-07 20:54:40","BupaQuit_B",2015-04-07
+"39",5011,"male",34,"United Kingdom","Manual work",1,"No","No","All the time","Extremely strong","Within 5 minutes",4,1,12,25,"1",3,"999","2015-04-09 07:20:05","BupaQuit_A",2015-04-09
+"43",5051,"male",37,"United Kingdom","Manual work",2,"No","Yes","Some of the time","Moderate","31-60 minutes",999,1,15,15,"1",1,"999","2015-04-23 16:33:22","BupaQuit_B",2015-04-23
+"45",5081,"male",26,"United Kingdom","Manual work",1,"Yes","No","A lot of the time","Strong","6-30 minutes",5,1,10,20,"1",3,"health","2015-04-23 20:24:24","BupaQuit_A",2015-04-23
+"46",5091,"male",44,"United Kingdom","Other",1,"No","Yes","A lot of the time","Strong","6-30 minutes",5,1,20,40,"1",1,"999","2015-04-23 20:39:47","BupaQuit_A",2015-04-23
+"47",5101,"female",34,"United Kingdom","Unemployed or retired",1,"Yes","No","All the time","Very strong","6-30 minutes",3,1,10,26,"1",1,"for my children","2015-04-23 22:23:07","BupaQuit_A",2015-04-23
+"49",5131,"female",25,"United Kingdom","Manual work",1,"Yes","No","A little of the time","Very strong","6-30 minutes",7,1,25,60,"1",2,"999","2015-04-24 15:02:12","BupaQuit_A",2015-04-24
+"50",5141,"male",25,"United Kingdom","Non-manual work",1,"Yes","Yes","A lot of the time","Strong","6-30 minutes",5,1,15,35,"1",1,"999","2015-04-24 19:57:06","BupaQuit_B",2015-04-24
+"51",5151,"female",21,"United Kingdom","Manual work",1,"No","No","A lot of the time","Moderate","31-60 minutes",4,1,15,26,"1",2,"999","2015-04-25 01:56:05","BupaQuit_B",2015-04-25
+"52",5161,"male",50,"United Kingdom","Manual work",1,"Yes","Yes","Some of the time","Moderate","31-60 minutes",6,1,15,42,"1",2,"999","2015-04-25 06:33:36","BupaQuit_A",2015-04-25
+"58",5191,"female",29,"United Kingdom","Manual work",1,"Yes","Yes","Some of the time","Strong","6-30 minutes",5,1,20,36,"1",3,"999","2015-04-25 14:23:39","BupaQuit_B",2015-04-25
+"60",5221,"male",57,"United Kingdom","Unemployed or retired",1,"No","Yes","A lot of the time","Very strong","31-60 minutes",6,1,30,75,"1",1,"999","2015-04-25 21:24:09","BupaQuit_B",2015-04-25
+"61",5231,"female",41,"United Kingdom","Manual work",1,"Yes","Yes","A little of the time","Strong","6-30 minutes",3,1,15,50,"1",1,"999","2015-04-26 07:03:23","BupaQuit_A",2015-04-26
+"62",5241,"male",22,"United Kingdom","Non-manual work",1,"Yes","Yes","Some of the time","Moderate","More than 60 minutes",5,1,10,30,"1",1,"999","2015-04-26 14:31:47","BupaQuit_A",2015-04-26
+"63",5251,"female",40,"United Kingdom","Manual work",2,"No","No","A little of the time","Moderate","31-60 minutes",999,1,12,20,"1",3,"999","2015-04-26 18:51:58","BupaQuit_B",2015-04-26
+"64",5271,"female",40,"United Kingdom","Non-manual work",2,"No","No","Some of the time","Moderate","6-30 minutes",999,1,15,12,"1",1,"999","2015-04-27 08:35:18","BupaQuit_A",2015-04-27
+"66",5291,"female",24,"United Kingdom","Student",1,"Yes","Yes","A lot of the time","Strong","Within 5 minutes",5,1,20,48,"1",1,"999","2015-04-27 18:03:31","BupaQuit_B",2015-04-27
+"67",5301,"male",23,"United Kingdom","Manual work",1,"Yes","Yes","A lot of the time","Moderate","6-30 minutes",3,1,18,20,"1",1,"999","2015-04-27 19:02:23","BupaQuit_A",2015-04-27
+"68",5311,"male",18,"United Kingdom","Non-manual work",1,"Yes","Yes","A lot of the time","Strong","6-30 minutes",5,1,10,30,"1",1,"999","2015-04-27 19:07:40","BupaQuit_B",2015-04-27
+"69",5321,"male",26,"United Kingdom","Non-manual work",1,"Yes","Yes","Some of the time","Moderate","31-60 minutes",5,1,6,10,"1",3,"999","2015-04-27 19:21:57","BupaQuit_B",2015-04-27
+"71",5351,"male",18,"United Kingdom","Other",1,"No","Yes","Almost always","Strong","More than 60 minutes",4,1,10,10,"1",1,"999","2015-04-28 00:44:14","BupaQuit_B",2015-04-28
+"72",5361,"female",47,"United Kingdom","Non-manual work",1,"Yes","Yes","A lot of the time","Moderate","6-30 minutes",2,1,15,40,"1",2,"Children","2015-04-28 06:01:38","BupaQuit_A",2015-04-28
+"73",5371,"male",34,"United Kingdom","Manual work",1,"No","Yes","A lot of the time","Strong","6-30 minutes",6,1,15,35,"1",1,"999","2015-04-28 06:04:33","BupaQuit_A",2015-04-28
+"74",5391,"male",42,"United Kingdom","Unemployed or retired",1,"Yes","Yes","A lot of the time","Strong","Within 5 minutes",3,1,15,45,"1",2,"999","2015-04-28 12:39:05","BupaQuit_A",2015-04-28
+"75",5401,"female",34,"United Kingdom","Non-manual work",1,"No","No","A little of the time","Moderate","More than 60 minutes",5,1,10,35,"1",3,"getting fit","2015-04-28 16:01:45","BupaQuit_B",2015-04-28
+"76",5411,"male",34,"United Kingdom","Non-manual work",2,"No","No","A lot of the time","Strong","31-60 minutes",999,1,12,40,"1",5,"999","2015-04-28 17:57:25","BupaQuit_A",2015-04-28
+"78",5421,"male",27,"United Kingdom","Manual work",1,"No","Yes","A little of the time","Strong","31-60 minutes",6,1,18,55,"1",1,"999","2015-04-28 21:20:26","BupaQuit_A",2015-04-28
+"79",5431,"male",23,"United Kingdom","Manual work",1,"Yes","Yes","All the time","Very strong","6-30 minutes",4,1,12,20,"1",2,"999","2015-04-28 23:47:22","BupaQuit_A",2015-04-28
+"80",5441,"female",20,"United Kingdom","Student",2,"No","Yes","A little of the time","Moderate","31-60 minutes",999,1,7,20,"1",1,"999","2015-04-29 07:16:03","BupaQuit_A",2015-04-29
+"82",5501,"male",34,"United Kingdom","Non-manual work",1,"Yes","Yes","A lot of the time","Very strong","31-60 minutes",4,1,20,65,"1",5,"999","2015-04-30 14:07:51","BupaQuit_A",2015-04-30
+"83",5511,"male",29,"United Kingdom","Manual work",1,"Yes","Yes","A lot of the time","Strong","6-30 minutes",4,1,30,70,"1",1,"999","2015-05-01 11:11:35","BupaQuit_A",2015-05-01
+"84",5521,"male",44,"United Kingdom","Unemployed or retired",1,"No","Yes","A lot of the time","Strong","6-30 minutes",7,1,10,30,"1",1,"999","2015-05-01 16:30:12","BupaQuit_A",2015-05-01
+"85",5531,"female",27,"United Kingdom","Manual work",1,"Yes","Yes","Almost always","Strong","31-60 minutes",7,1,20,50,"1",1,"999","2015-05-01 16:30:33","BupaQuit_B",2015-05-01
+"86",5561,"female",31,"United Kingdom","Manual work",1,"Yes","Yes","Almost always","Very strong","Within 5 minutes",7,1,25,60,"1",3,"999","2015-05-01 17:09:16","BupaQuit_A",2015-05-01
+"87",5571,"male",21,"United Kingdom","Student",2,"No","Yes","Some of the time","Strong","More than 60 minutes",999,1,6,5,"1",2,"999","2015-05-01 17:31:10","BupaQuit_B",2015-05-01
+"88",5581,"male",41,"United Kingdom","Manual work",1,"Yes","Yes","A lot of the time","Moderate","6-30 minutes",5,1,15,50,"1",1,"999","2015-05-01 17:59:08","BupaQuit_B",2015-05-01
+"89",5611,"male",35,"United Kingdom","Manual work",1,"No","Yes","A little of the time","Moderate","31-60 minutes",4,1,10,28,"1",1,"999","2015-05-02 01:43:59","BupaQuit_A",2015-05-02
+"91",5631,"female",25,"United Kingdom","Non-manual work",1,"No","No","Some of the time","Slight","6-30 minutes",4,1,12,20,"1",6,"999","2015-05-02 13:19:23","BupaQuit_A",2015-05-02
+"92",5641,"male",48,"United Kingdom","Non-manual work",1,"Yes","Yes","Some of the time","Moderate","6-30 minutes",5,1,12,24,"1",1,"999","2015-05-02 16:19:03","BupaQuit_B",2015-05-02
+"94",5651,"male",39,"United Kingdom","Non-manual work",1,"Yes","Yes","Some of the time","Strong","31-60 minutes",6,1,10,30,"1",3,"999","2015-05-02 18:08:16","BupaQuit_A",2015-05-02
+"96",5672,"female",34,"United Kingdom","Non-manual work",1,"No","Yes","A little of the time","Moderate","More than 60 minutes",7,1,10,50,"1",1,"Sleep and look better","2015-05-03 09:51:59","BupaQuit_A",2015-05-03
+"98",5681,"female",42,"United Kingdom","Other",1,"No","No","A lot of the time","Strong","31-60 minutes",5,1,10,5,"1",1,"999","2015-05-03 14:30:40","BupaQuit_B",2015-05-03
+"99",5701,"male",21,"United Kingdom","Student",1,"Yes","Yes","A lot of the time","Strong","6-30 minutes",5,1,10,8,"1",1,"999","2015-05-03 15:49:11","BupaQuit_A",2015-05-03
+"100",5711,"female",25,"United Kingdom","Student",2,"Yes","Yes","All the time","Very strong","More than 60 minutes",999,1,4,2,"1",1,"999","2015-05-03 16:10:15","BupaQuit_A",2015-05-03
+"101",5731,"male",40,"United Kingdom","Manual work",1,"No","Yes","A lot of the time","Very strong","Within 5 minutes",6,1,15,40,"1",3,"and myself","2015-05-04 06:17:42","BupaQuit_B",2015-05-04
+"103",5741,"male",44,"United Kingdom","Manual work",1,"No","Yes","Almost always","Strong","6-30 minutes",6,1,25,56,"1",6,"999","2015-05-04 09:46:30","BupaQuit_B",2015-05-04
+"105",5751,"male",25,"United Kingdom","Manual work",2,"Yes","Yes","Some of the time","Strong","More than 60 minutes",999,1,6,5,"1",1,"999","2015-05-04 12:37:15","BupaQuit_B",2015-05-04
+"106",5761,"male",31,"United Kingdom","Non-manual work",1,"Yes","Yes","A little of the time","Moderate","6-30 minutes",5,1,10,20,"1",3,"999","2015-05-04 13:35:05","BupaQuit_A",2015-05-04
+"107",5771,"male",31,"United Kingdom","Non-manual work",1,"Yes","Yes","A lot of the time","Strong","Within 5 minutes",4,1,10,10,"1",1,"999","2015-05-04 14:22:19","BupaQuit_B",2015-05-04
+"109",5781,"male",35,"United Kingdom","Manual work",1,"Yes","Yes","Some of the time","Moderate","31-60 minutes",6,1,15,40,"1",3,"999","2015-05-04 14:36:19","BupaQuit_A",2015-05-04
+"111",5801,"male",30,"United Kingdom","Manual work",1,"No","Yes","Some of the time","Strong","6-30 minutes",4,1,5,20,"1",1,"999","2015-05-04 19:38:27","BupaQuit_B",2015-05-04
+"112",5811,"male",37,"United Kingdom","Non-manual work",1,"Yes","Yes","Some of the time","Moderate","6-30 minutes",5,1,30,75,"1",2,"999","2015-05-04 20:46:43","BupaQuit_A",2015-05-04
+"114",5821,"female",28,"United Kingdom","Non-manual work",1,"Yes","Yes","A lot of the time","Strong","More than 60 minutes",5,1,25,30,"1",1,"999","2015-05-04 21:32:43","BupaQuit_A",2015-05-04
+"115",5831,"male",25,"United Kingdom","Non-manual work",1,"Yes","Yes","Almost always","Strong","6-30 minutes",4,1,20,49,"1",2,"999","2015-05-05 00:46:52","BupaQuit_B",2015-05-05
+"117",5841,"female",35,"United Kingdom","Other",1,"Yes","Yes","A lot of the time","Strong","6-30 minutes",6,1,10,45,"1",3,"999","2015-05-05 03:58:46","BupaQuit_A",2015-05-05
+"118",5851,"male",19,"United Kingdom","Student",1,"No","No","Not at all","Not indicated","6-30 minutes",4,1,15,30,"1",2,"999","2015-05-05 04:26:06","BupaQuit_A",2015-05-05
+"119",5861,"male",18,"United Kingdom","Manual work",1,"No","No","A lot of the time","Moderate","31-60 minutes",7,1,5,50,"1",2,"999","2015-05-05 05:22:44","BupaQuit_B",2015-05-05
+"120",5871,"male",51,"United Kingdom","Non-manual work",1,"Yes","Yes","Some of the time","Strong","31-60 minutes",5,1,10,15,"1",1,"999","2015-05-05 19:55:45","BupaQuit_A",2015-05-05
+"122",5881,"male",30,"United Kingdom","Non-manual work",1,"Yes","Yes","A lot of the time","Very strong","More than 60 minutes",2,1,5,25,"1",3,"health, money, anti social, lethargy","2015-05-05 20:30:33","BupaQuit_A",2015-05-05
+"125",5911,"male",34,"United Kingdom","Manual work",1,"No","Yes","A little of the time","Slight","Within 5 minutes",4,1,5,30,"1",2,"999","2015-05-06 05:24:10","BupaQuit_A",2015-05-06
+"126",5912,"male",46,"United Kingdom","Manual work",1,"Yes","Yes","Some of the time","Moderate","More than 60 minutes",4,1,5,35,"1",3,"999","2015-05-06 06:48:41","BupaQuit_A",2015-05-06
+"128",5941,"male",27,"United Kingdom","Manual work",1,"No","Yes","Almost always","Moderate","More than 60 minutes",5,1,19,40,"1",1,"Money","2015-05-06 15:56:07","BupaQuit_A",2015-05-06
+"129",5961,"male",25,"United Kingdom","Manual work",1,"No","Yes","Some of the time","Moderate","6-30 minutes",4,1,8,25,"1",2,"For my family","2015-05-06 17:34:34","BupaQuit_B",2015-05-06
+"130",5981,"male",41,"United Kingdom","Manual work",1,"No","Yes","A lot of the time","Strong","6-30 minutes",4,1,6,20,"1",1,"999","2015-05-06 23:03:01","BupaQuit_A",2015-05-06
+"133",6021,"female",38,"United Kingdom","Non-manual work",1,"Yes","Yes","Some of the time","Moderate","Within 5 minutes",3,1,10,30,"1",1,"999","2015-05-09 13:01:39","BupaQuit_B",2015-05-09
+"144",6051,"female",30,"United Kingdom","Non-manual work",2,"Yes","Yes","Some of the time","Moderate","More than 60 minutes",999,1,10,20,"1",1,"999","2015-05-11 13:33:02","BupaQuit_A",2015-05-11
+"145",6061,"male",23,"United Kingdom","Manual work",1,"Yes","Yes","Almost always","Slight","6-30 minutes",2,1,20,80,"1",2,"999","2015-05-12 14:19:54","BupaQuit_A",2015-05-12
+"146",6071,"female",45,"United Kingdom","Unemployed or retired",1,"Yes","Yes","All the time","Extremely strong","Within 5 minutes",4,1,20,80,"1",1,"999","2015-05-12 15:19:53","BupaQuit_A",2015-05-12
+"147",6081,"female",22,"United Kingdom","Other",1,"Yes","No","Some of the time","Moderate","6-30 minutes",5,1,20,30,"1",1,"999","2015-05-12 16:37:02","BupaQuit_B",2015-05-12
+"149",6121,"female",35,"United Kingdom","Non-manual work",1,"Yes","Yes","Some of the time","Moderate","6-30 minutes",5,1,20,20,"1",1,"999","2015-05-12 19:55:37","BupaQuit_B",2015-05-12
+"150",6131,"male",32,"United Kingdom","Manual work",1,"No","Yes","A lot of the time","Strong","6-30 minutes",7,1,25,90,"1",2,"999","2015-05-12 22:23:49","BupaQuit_A",2015-05-12
+"151",6141,"female",26,"United Kingdom","Unemployed or retired",1,"No","No","A lot of the time","Strong","Within 5 minutes",5,1,20,46,"1",3,"999","2015-05-13 09:15:32","BupaQuit_A",2015-05-13
+"153",6151,"female",20,"United Kingdom","Manual work",1,"Yes","No","A lot of the time","Strong","Within 5 minutes",5,1,15,10,"1",3,"999","2015-05-13 10:40:34","BupaQuit_A",2015-05-13
+"156",6171,"female",48,"United Kingdom","Non-manual work",1,"No","Yes","A lot of the time","Moderate","6-30 minutes",5,1,12,42,"1",2,"999","2015-05-13 18:49:07","BupaQuit_B",2015-05-13
+"158",6191,"male",21,"United Kingdom","Manual work",1,"Yes","Yes","Some of the time","Moderate","Within 5 minutes",3,1,15,15,"1",1,"999","2015-05-14 12:18:15","BupaQuit_B",2015-05-14
+"161",6201,"female",47,"United Kingdom","Unemployed or retired",1,"Yes","No","A lot of the time","Strong","Within 5 minutes",7,1,20,43,"1",1,"999","2015-05-14 12:58:51","BupaQuit_A",2015-05-14
+"162",6211,"female",25,"United Kingdom","Manual work",1,"Yes","Yes","Some of the time","Strong","31-60 minutes",5,1,10,37,"1",2,"999","2015-05-14 16:36:32","BupaQuit_A",2015-05-14
+"163",6221,"female",45,"United Kingdom","Non-manual work",1,"No","Yes","A lot of the time","Strong","6-30 minutes",4,1,20,70,"1",3,"999","2015-05-14 23:45:02","BupaQuit_B",2015-05-14
+"164",6241,"female",52,"United Kingdom","Manual work",1,"Yes","Yes","Some of the time","Moderate","Within 5 minutes",7,1,20,50,"1",1,"Money","2015-05-15 19:31:07","BupaQuit_A",2015-05-15
+"165",6251,"female",21,"United Kingdom","Manual work",1,"Yes","No","Some of the time","Moderate","6-30 minutes",5,1,10,24,"1",2,"999","2015-05-16 00:54:48","BupaQuit_A",2015-05-16
+"166",6271,"female",22,"United Kingdom","Student",1,"Yes","No","All the time","Extremely strong","Within 5 minutes",7,1,15,45,"1",5,"999","2015-05-16 09:05:54","BupaQuit_B",2015-05-16
+"168",6281,"female",38,"United Kingdom","Non-manual work",1,"Yes","Yes","A lot of the time","Very strong","31-60 minutes",3,1,10,6,"1",3,"to try for ivf","2015-05-16 10:35:41","BupaQuit_A",2015-05-16
+"170",6301,"female",38,"United Kingdom","Non-manual work",1,"Yes","Yes","Almost always","Very strong","Within 5 minutes",4,1,10,35,"1",1,"999","2015-05-16 12:53:16","BupaQuit_A",2015-05-16
+"174",6341,"female",54,"United Kingdom","Manual work",1,"Yes","Yes","Almost always","Strong","6-30 minutes",4,1,20,35,"1",1,"999","2015-05-17 17:47:11","BupaQuit_B",2015-05-17
+"177",6352,"female",59,"United Kingdom","Unemployed or retired",1,"No","No","Almost always","Strong","6-30 minutes",4,1,25,70,"1",1,"999","2015-05-17 20:49:10","BupaQuit_A",2015-05-17
+"179",6361,"female",57,"United Kingdom","Non-manual work",1,"Yes","Yes","A lot of the time","Moderate","6-30 minutes",5,1,20,42,"1",1,"999","2015-05-17 23:43:00","BupaQuit_A",2015-05-17
+"180",6371,"female",18,"United Kingdom","Other",1,"No","Yes","A lot of the time","Strong","More than 60 minutes",5,1,10,20,"1",1,"Save money","2015-05-18 10:39:10","BupaQuit_A",2015-05-18
+"181",6382,"male",31,"United Kingdom","Non-manual work",3,"Yes","No","All the time","Very strong","Within 5 minutes",999,1,20,56,"1",1,"999","2015-05-18 14:04:25","BupaQuit_A",2015-05-18
+"183",6391,"male",19,"United Kingdom","Student",1,"Yes","Yes","Some of the time","Moderate","31-60 minutes",5,1,8,18,"1",1,"save money","2015-05-18 18:00:49","BupaQuit_B",2015-05-18
+"184",6401,"female",59,"United Kingdom","Manual work",1,"No","Yes","A lot of the time","Moderate","6-30 minutes",4,1,15,48,"1",1,"999","2015-05-18 19:27:18","BupaQuit_A",2015-05-18
+"186",6411,"female",36,"United Kingdom","Non-manual work",1,"Yes","Yes","A lot of the time","Strong","6-30 minutes",7,1,15,35,"1",3,"999","2015-05-18 21:59:10","BupaQuit_B",2015-05-18
+"188",6421,"female",43,"United Kingdom","Other",1,"Yes","Yes","All the time","Extremely strong","Within 5 minutes",3,1,20,35,"1",3,"999","2015-05-19 10:30:45","BupaQuit_B",2015-05-19
+"189",6431,"male",32,"United Kingdom","Manual work",1,"Yes","Yes","A lot of the time","Strong","Within 5 minutes",4,1,20,779,"1",3,"for my wife","2015-05-19 13:36:58","BupaQuit_B",2015-05-19
+"190",6471,"male",29,"United Kingdom","Non-manual work",2,"No","No","Almost always","Strong","31-60 minutes",999,1,10,5,"1",1,"999","2015-05-20 05:38:31","BupaQuit_A",2015-05-20
+"192",6481,"female",57,"United Kingdom","Unemployed or retired",3,"Yes","Yes","All the time","Extremely strong","Within 5 minutes",999,1,30,35,"1",1,"999","2015-05-20 07:44:10","BupaQuit_B",2015-05-20
+"194",6491,"male",23,"United Kingdom","Manual work",1,"Yes","No","Almost always","Very strong","6-30 minutes",3,1,20,10,"1",1,"999","2015-05-20 10:31:14","BupaQuit_A",2015-05-20
+"196",6511,"male",33,"United Kingdom","Manual work",1,"No","Yes","All the time","Strong","6-30 minutes",5,1,30,49,"1",3,"999","2015-05-20 20:25:58","BupaQuit_B",2015-05-20
+"198",6551,"female",45,"United Kingdom","Other",1,"No","No","Some of the time","Moderate","More than 60 minutes",4,1,8,20,"1",1,"Operation","2015-05-21 19:04:02","BupaQuit_B",2015-05-21
+"200",6571,"female",28,"United Kingdom","Student",1,"Yes","Yes","Almost always","Very strong","Within 5 minutes",5,1,20,65,"1",3,"999","2015-05-21 20:31:09","BupaQuit_A",2015-05-21
+"201",6591,"female",20,"United Kingdom","Manual work",1,"Yes","Yes","A lot of the time","Strong","Within 5 minutes",4,1,20,50,"1",3,"999","2015-05-22 13:49:09","BupaQuit_A",2015-05-22
+"202",6601,"female",52,"United Kingdom","Manual work",1,"Yes","Yes","Some of the time","Moderate","Within 5 minutes",7,1,20,50,"1",1,"Save money","2015-05-22 14:34:16","BupaQuit_B",2015-05-22
+"204",6611,"female",29,"United Kingdom","Manual work",1,"No","Yes","Some of the time","Strong","31-60 minutes",3,1,15,35,"1",3,"999","2015-05-22 22:22:46","BupaQuit_A",2015-05-22
+"206",6621,"female",24,"United Kingdom","Other",1,"No","Yes","Some of the time","Strong","6-30 minutes",6,1,20,52,"1",2,"999","2015-05-23 08:21:33","BupaQuit_A",2015-05-23
+"207",6631,"male",99,"United Kingdom","Manual work",2,"Yes","Yes","Some of the time","Strong","6-30 minutes",999,1,99,99,"1",6,"999","2015-05-23 11:08:38","BupaQuit_A",2015-05-23
+"208",6641,"female",23,"United Kingdom","Unemployed or retired",1,"Yes","Yes","A lot of the time","Strong","6-30 minutes",6,1,20,40,"1",3,"Health and money","2015-05-23 11:11:28","BupaQuit_A",2015-05-23
+"210",6651,"female",45,"United Kingdom","Manual work",1,"Yes","No","Some of the time","Moderate","6-30 minutes",4,1,15,35,"1",1,"999","2015-05-23 16:36:54","BupaQuit_A",2015-05-23
+"211",6671,"male",45,"United Kingdom","Manual work",1,"Yes","Yes","Almost always","Moderate","More than 60 minutes",3,1,10,40,"1",1,"999","2015-05-23 17:50:22","BupaQuit_A",2015-05-23
+"213",6681,"female",22,"United Kingdom","Manual work",1,"No","No","Some of the time","Strong","31-60 minutes",3,1,10,28,"1",1,"999","2015-05-23 18:06:30","BupaQuit_A",2015-05-23
+"215",6691,"female",51,"United Kingdom","Manual work",1,"Yes","Yes","Some of the time","Moderate","6-30 minutes",4,1,20,65,"1",1,"999","2015-05-23 20:45:32","BupaQuit_B",2015-05-23
+"217",6701,"female",22,"United Kingdom","Other",1,"Yes","No","Almost always","Extremely strong","6-30 minutes",4,1,15,30,"1",3,"999","2015-05-23 22:29:15","BupaQuit_B",2015-05-23
+"218",6721,"female",35,"United Kingdom","Manual work",1,"Yes","Yes","A lot of the time","Strong","Within 5 minutes",7,1,20,20,"1",3,"999","2015-05-24 10:37:16","BupaQuit_A",2015-05-24
+"219",6731,"male",24,"United Kingdom","Manual work",1,"Yes","Yes","A lot of the time","Very strong","6-30 minutes",4,1,16,60,"1",1,"999","2015-05-24 14:10:11","BupaQuit_A",2015-05-24
+"220",6741,"female",41,"United Kingdom","Manual work",1,"Yes","Yes","A little of the time","Very strong","Within 5 minutes",5,1,30,77,"1",3,"money","2015-05-24 15:19:28","BupaQuit_B",2015-05-24
+"224",6771,"female",55,"United Kingdom","Manual work",1,"Yes","Yes","All the time","Very strong","Within 5 minutes",5,1,20,70,"1",5,"999","2015-05-24 18:39:00","BupaQuit_A",2015-05-24
+"227",6801,"female",52,"United Kingdom","Manual work",1,"Yes","Yes","A lot of the time","Moderate","6-30 minutes",5,1,20,47,"1",2,"999","2015-05-25 17:03:02","BupaQuit_A",2015-05-25
+"228",6811,"female",21,"United Kingdom","Non-manual work",2,"No","No","A lot of the time","Strong","31-60 minutes",999,1,6,12,"1",1,"999","2015-05-25 18:49:00","BupaQuit_A",2015-05-25
+"230",6841,"female",20,"United Kingdom","Unemployed or retired",1,"Yes","Yes","A little of the time","Strong","More than 60 minutes",6,1,5,15,"1",1,"999","2015-05-25 20:54:54","BupaQuit_B",2015-05-25
+"232",6891,"female",60,"United Kingdom","Non-manual work",1,"Yes","Yes","A lot of the time","Moderate","6-30 minutes",7,1,30,70,"1",1,"999","2015-05-26 21:06:25","BupaQuit_B",2015-05-26
+"234",6901,"female",18,"United Kingdom","Manual work",1,"Yes","Yes","A lot of the time","Strong","6-30 minutes",5,1,15,40,"1",1,"999","2015-05-27 00:09:36","BupaQuit_B",2015-05-27
+"235",6921,"male",22,"United Kingdom","Unemployed or retired",1,"Yes","No","Some of the time","Strong","Within 5 minutes",5,1,10,9,"1",1,"999","2015-05-27 04:11:56","BupaQuit_B",2015-05-27
+"238",6931,"female",26,"United Kingdom","Other",1,"Yes","Yes","A lot of the time","Moderate","6-30 minutes",5,1,15,10,"1",3,"999","2015-05-27 06:37:13","BupaQuit_B",2015-05-27
+"239",6941,"female",21,"United Kingdom","Student",1,"Yes","Yes","A lot of the time","Very strong","6-30 minutes",6,1,10,40,"1",1,"999","2015-05-27 13:07:45","BupaQuit_A",2015-05-27
+"240",6951,"male",19,"United Kingdom","Manual work",1,"Yes","No","A lot of the time","Strong","Within 5 minutes",5,1,10,35,"1",1,"999","2015-05-27 14:25:46","BupaQuit_A",2015-05-27
+"241",6981,"female",19,"United Kingdom","Student",1,"No","No","A lot of the time","Strong","More than 60 minutes",2,1,15,8,"1",1,"999","2015-05-27 21:31:48","BupaQuit_B",2015-05-27
+"243",7001,"female",33,"United Kingdom","Non-manual work",2,"Yes","Yes","A lot of the time","Strong","Within 5 minutes",999,1,20,68,"1",2,"999","2015-05-27 23:16:52","BupaQuit_B",2015-05-27
+"245",7011,"male",24,"United Kingdom","Non-manual work",1,"Yes","Yes","A lot of the time","Strong","6-30 minutes",5,1,25,10,"1",1,"to sleep better","2015-05-28 10:07:00","BupaQuit_A",2015-05-28
+"246",7021,"male",20,"United Kingdom","Non-manual work",1,"Yes","Yes","Some of the time","Strong","31-60 minutes",6,1,8,28,"1",6,"999","2015-05-28 10:53:41","BupaQuit_B",2015-05-28
+"247",7031,"female",46,"United Kingdom","Non-manual work",1,"Yes","Yes","A little of the time","Moderate","More than 60 minutes",6,1,15,9,"1",3,"999","2015-05-29 07:37:12","BupaQuit_B",2015-05-29
+"249",7032,"female",71,"United Kingdom","Other",1,"Yes","Yes","Some of the time","Moderate","31-60 minutes",5,1,15,40,"1",1,"Save money","2015-05-29 08:37:22","BupaQuit_B",2015-05-29
+"250",7061,"female",23,"United Kingdom","Student",1,"No","No","A lot of the time","Strong","31-60 minutes",7,1,20,8,"1",2,"999","2015-05-29 16:57:30","BupaQuit_A",2015-05-29
+"251",7071,"male",36,"United Kingdom","Other",1,"No","Yes","Some of the time","Moderate","31-60 minutes",6,1,10,25,"1",5,"999","2015-05-29 20:34:45","BupaQuit_B",2015-05-29
+"254",7101,"male",20,"United Kingdom","Non-manual work",1,"Yes","No","A lot of the time","Moderate","31-60 minutes",4,1,15,25,"1",1,"999","2015-05-30 17:56:36","BupaQuit_A",2015-05-30
+"255",7111,"male",22,"United Kingdom","Student",1,"Yes","Yes","A lot of the time","Moderate","31-60 minutes",5,1,15,20,"1",1,"999","2015-05-30 18:03:32","BupaQuit_A",2015-05-30
+"256",7121,"male",22,"United Kingdom","Student",1,"Yes","Yes","A lot of the time","Moderate","Within 5 minutes",4,1,20,15,"1",1,"999","2015-05-30 21:36:28","BupaQuit_B",2015-05-30
+"258",7131,"male",46,"United Kingdom","Other",1,"Yes","Yes","A lot of the time","Strong","Within 5 minutes",4,1,30,100,"1",2,"999","2015-05-31 08:47:35","BupaQuit_A",2015-05-31
+"259",7141,"male",20,"United Kingdom","Non-manual work",3,"Yes","No","A little of the time","Moderate","31-60 minutes",999,1,15,25,"1",999,"Becks x","2015-05-31 10:11:21","BupaQuit_B",2015-05-31
+"261",7151,"male",31,"United Kingdom","Manual work",1,"Yes","Yes","A lot of the time","Strong","More than 60 minutes",4,1,20,49,"1",3,"999","2015-05-31 11:40:00","BupaQuit_B",2015-05-31
+"262",7161,"male",22,"United Kingdom","Manual work",1,"Yes","Yes","A lot of the time","Strong","Within 5 minutes",4,1,30,32,"1",1,"999","2015-05-31 13:45:37","BupaQuit_B",2015-05-31
+"264",7171,"female",26,"United Kingdom","Non-manual work",1,"Yes","No","A lot of the time","Moderate","Within 5 minutes",2,1,10,30,"1",1,"999","2015-05-31 14:05:16","BupaQuit_B",2015-05-31
+"265",7191,"female",38,"United Kingdom","Non-manual work",1,"Yes","Yes","A lot of the time","Strong","Within 5 minutes",1,1,20,12,"1",5,"999","2015-05-31 17:47:32","BupaQuit_A",2015-05-31
+"266",7201,"female",42,"United Kingdom","Student",1,"Yes","Yes","Almost always","Strong","More than 60 minutes",4,1,10,28,"1",3,"999","2015-05-31 19:04:50","BupaQuit_B",2015-05-31
+"268",7211,"male",47,"United Kingdom","Manual work",1,"Yes","Yes","All the time","Strong","Within 5 minutes",4,1,15,35,"1",1,"999","2015-05-31 21:19:37","BupaQuit_A",2015-05-31
+"270",7221,"male",21,"United Kingdom","Non-manual work",1,"No","No","A lot of the time","Strong","31-60 minutes",2,1,10,5,"1",2,"health","2015-05-31 21:37:40","BupaQuit_A",2015-05-31
+"274",7241,"male",55,"United Kingdom","Unemployed or retired",1,"Yes","Yes","A lot of the time","Very strong","6-30 minutes",7,1,30,35,"1",1,"999","2015-06-01 14:07:39","BupaQuit_B",2015-06-01
+"276",7261,"female",18,"United Kingdom","Student",1,"No","No","Almost always","Moderate","6-30 minutes",2,1,20,60,"1",2,"999","2015-06-02 10:29:03","BupaQuit_A",2015-06-02
+"277",7271,"female",31,"United Kingdom","Non-manual work",1,"Yes","Yes","Some of the time","Strong","6-30 minutes",5,1,10,20,"1",1,"999","2015-06-02 11:29:03","BupaQuit_A",2015-06-02
+"279",7281,"female",43,"United Kingdom","Non-manual work",1,"No","Yes","A lot of the time","Strong","Within 5 minutes",4,1,20,45,"1",1,"asthmatic","2015-06-02 15:19:48","BupaQuit_B",2015-06-02
+"282",7311,"male",21,"United Kingdom","Manual work",1,"Yes","Yes","A lot of the time","Strong","6-30 minutes",7,1,12,80,"1",1,"999","2015-06-03 10:22:13","BupaQuit_B",2015-06-03
+"284",7331,"female",29,"United Kingdom","Manual work",2,"No","No","A lot of the time","Strong","31-60 minutes",999,1,8,30,"1",1,"999","2015-06-03 21:12:28","BupaQuit_B",2015-06-03
+"285",7341,"male",38,"United Kingdom","Non-manual work",1,"No","Yes","A lot of the time","Strong","More than 60 minutes",3,1,10,35,"1",3,"health","2015-06-04 06:56:49","BupaQuit_A",2015-06-04
+"287",7371,"male",19,"United Kingdom","Student",1,"Yes","No","A lot of the time","Strong","31-60 minutes",5,1,20,50,"1",1,"Money","2015-06-04 22:57:25","BupaQuit_A",2015-06-04
+"289",7391,"female",47,"United Kingdom","Manual work",1,"Yes","Yes","Some of the time","Moderate","6-30 minutes",7,1,10,50,"1",3,"999","2015-06-05 00:47:58","BupaQuit_A",2015-06-05
+"290",7401,"female",34,"United Kingdom","Other",1,"Yes","Yes","A lot of the time","Moderate","6-30 minutes",5,1,20,45,"1",3,"999","2015-06-06 08:33:13","BupaQuit_B",2015-06-06
+"291",7421,"female",47,"United Kingdom","Non-manual work",1,"Yes","No","Almost always","Extremely strong","Within 5 minutes",6,1,20,50,"1",3,"999","2015-06-06 21:35:45","BupaQuit_A",2015-06-06
+"292",7431,"female",71,"United Kingdom","Other",1,"Yes","Yes","A lot of the time","Strong","6-30 minutes",6,1,20,70,"1",1,"Save money","2015-06-07 19:09:41","BupaQuit_B",2015-06-07
+"293",7441,"male",18,"United Kingdom","Non-manual work",1,"Yes","No","A lot of the time","Strong","Within 5 minutes",3,1,20,70,"1",1,"999","2015-06-07 19:39:13","BupaQuit_A",2015-06-07
+"295",7461,"female",21,"United Kingdom","Non-manual work",1,"No","No","A lot of the time","Very strong","6-30 minutes",7,1,15,50,"1",1,"999","2015-06-08 08:05:05","BupaQuit_B",2015-06-08
+"297",7471,"male",51,"United Kingdom","Non-manual work",1,"Yes","Yes","Some of the time","Moderate","6-30 minutes",7,1,10,40,"1",1,"and for my children and loved ones and see my grandchildren","2015-06-08 08:50:51","BupaQuit_A",2015-06-08
+"298",7481,"male",21,"United Kingdom","Manual work",1,"Yes","Yes","Almost always","Very strong","6-30 minutes",6,1,13,150,"1",1,"999","2015-06-08 09:40:41","BupaQuit_B",2015-06-08
+"300",7491,"female",48,"United Kingdom","Manual work",1,"Yes","Yes","A lot of the time","Strong","6-30 minutes",4,1,12,30,"1",1,"999","2015-06-08 12:33:32","BupaQuit_B",2015-06-08
+"302",7541,"female",35,"United Kingdom","Manual work",1,"Yes","Yes","Some of the time","Moderate","Within 5 minutes",3,1,20,25,"1",1,"999","2015-06-08 20:01:53","BupaQuit_B",2015-06-08
+"304",7561,"female",18,"United Kingdom","Student",2,"Yes","No","Some of the time","Strong","31-60 minutes",999,1,6,5,"1",2,"Singing","2015-06-09 00:02:51","BupaQuit_B",2015-06-09
+"305",7562,"male",21,"United Kingdom","Manual work",2,"Yes","No","Some of the time","Moderate","31-60 minutes",999,1,15,10,"1",5,"999","2015-06-09 14:08:54","BupaQuit_A",2015-06-09
+"306",7572,"male",19,"United Kingdom","Manual work",1,"Yes","Yes","A lot of the time","Strong","Within 5 minutes",6,1,15,20,"1",3,"999","2015-06-09 17:35:53","BupaQuit_B",2015-06-09
+"313",7631,"female",20,"United Kingdom","Non-manual work",1,"Yes","No","A lot of the time","Moderate","6-30 minutes",7,1,10,36,"1",4,"New car fund","2015-06-10 19:53:12","BupaQuit_B",2015-06-10
+"315",7641,"male",41,"United Kingdom","Manual work",1,"Yes","Yes","Almost always","Extremely strong","31-60 minutes",6,1,15,47,"1",1,"North Pole Marathon April 2016","2015-06-11 06:42:17","BupaQuit_B",2015-06-11
+"318",7651,"female",37,"United Kingdom","Manual work",1,"Yes","Yes","Some of the time","Moderate","6-30 minutes",4,1,17,46,"1",2,"999","2015-06-11 08:38:18","BupaQuit_B",2015-06-11
+"319",7652,"male",21,"United Kingdom","Student",1,"Yes","Yes","Some of the time","Moderate","31-60 minutes",6,1,6,5,"1",1,"999","2015-06-12 00:02:17","BupaQuit_B",2015-06-12
+"322",7691,"male",18,"United Kingdom","Manual work",1,"Yes","No","Almost always","Moderate","6-30 minutes",5,1,20,20,"1",1,"999","2015-06-12 17:47:09","BupaQuit_A",2015-06-12
+"324",7701,"female",42,"United Kingdom","Non-manual work",1,"No","Yes","A lot of the time","Very strong","6-30 minutes",7,1,20,60,"1",1,"999","2015-06-12 21:39:27","BupaQuit_B",2015-06-12
+"325",7721,"male",22,"United Kingdom","Manual work",1,"Yes","Yes","A lot of the time","Moderate","31-60 minutes",6,1,10,7,"1",1,"999","2015-06-13 12:24:52","BupaQuit_B",2015-06-13
+"333",7761,"female",48,"United Kingdom","Manual work",1,"Yes","Yes","Some of the time","Strong","6-30 minutes",7,1,10,30,"1",1,"999","2015-06-14 22:16:07","BupaQuit_B",2015-06-14
+"336",7781,"male",44,"United Kingdom","Manual work",1,"Yes","Yes","Almost always","Strong","6-30 minutes",1,1,30,50,"1",3,"health and money","2015-06-15 08:23:18","BupaQuit_B",2015-06-15
+"338",7831,"female",50,"United Kingdom","Manual work",1,"Yes","Yes","A lot of the time","Strong","6-30 minutes",5,1,20,15,"1",3,"999","2015-06-17 07:29:37","BupaQuit_B",2015-06-17
+"340",7851,"male",18,"United Kingdom","Student",1,"No","No","Almost always","Strong","6-30 minutes",4,1,15,15,"1",2,"999","2015-06-17 11:17:52","BupaQuit_B",2015-06-17
+"341",7861,"male",40,"United Kingdom","Manual work",1,"Yes","No","Some of the time","Moderate","6-30 minutes",4,1,20,40,"1",2,"999","2015-06-17 11:23:56","BupaQuit_B",2015-06-17
+"342",7881,"male",23,"United Kingdom","Manual work",1,"No","No","A lot of the time","Very strong","Within 5 minutes",6,1,20,50,"1",1,"999","2015-06-17 18:11:41","BupaQuit_A",2015-06-17
+"343",7911,"male",44,"United Kingdom","Non-manual work",1,"Yes","Yes","A lot of the time","Moderate","31-60 minutes",5,1,12,30,"1",2,"999","2015-06-19 12:39:38","BupaQuit_A",2015-06-19
+"345",7981,"male",36,"United Kingdom","Non-manual work",1,"Yes","Yes","Some of the time","Very strong","Within 5 minutes",7,1,20,80,"1",1,"Money","2015-06-21 17:41:27","BupaQuit_A",2015-06-21
+"346",8001,"male",24,"United Kingdom","Manual work",1,"No","No","Some of the time","Strong","Within 5 minutes",7,1,15,20,"1",3,"999","2015-06-21 19:33:57","BupaQuit_B",2015-06-21
+"347",8011,"male",21,"United Kingdom","Non-manual work",1,"Yes","Yes","A lot of the time","Strong","31-60 minutes",5,1,10,15,"1",1,"999","2015-06-21 23:35:26","BupaQuit_B",2015-06-21
+"348",8041,"female",31,"United Kingdom","Manual work",1,"No","Yes","Some of the time","Moderate","31-60 minutes",5,1,10,20,"1",3,"Health and fitness","2015-06-22 12:32:41","BupaQuit_A",2015-06-22
+"349",8061,"female",31,"United Kingdom","Manual work",1,"No","No","Almost always","Very strong","6-30 minutes",5,1,30,10,"1",3,"999","2015-06-22 18:49:41","BupaQuit_B",2015-06-22
+"350",8071,"male",41,"United Kingdom","Manual work",1,"No","Yes","A lot of the time","Moderate","6-30 minutes",6,1,15,20,"1",1,"999","2015-06-23 09:39:39","BupaQuit_B",2015-06-23
+"351",8111,"male",20,"United Kingdom","Manual work",1,"No","Yes","Some of the time","Moderate","31-60 minutes",4,1,5,20,"1",1,"999","2015-06-24 07:56:08","BupaQuit_B",2015-06-24
+"354",8121,"female",44,"United Kingdom","Non-manual work",1,"Yes","No","A lot of the time","Strong","6-30 minutes",4,1,20,50,"1",2,"999","2015-06-24 16:33:18","BupaQuit_B",2015-06-24
+"356",8131,"male",60,"United Kingdom","Manual work",1,"Yes","Yes","Almost always","Strong","Within 5 minutes",5,1,40,105,"1",1,"Save money","2015-06-24 19:13:36","BupaQuit_B",2015-06-24
+"359",8161,"male",40,"United Kingdom","Non-manual work",2,"No","No","A lot of the time","Strong","6-30 minutes",999,1,20,12,"1",1,"Children","2015-06-26 01:07:26","BupaQuit_A",2015-06-26
+"361",8171,"female",36,"United Kingdom","Other",1,"No","Yes","A lot of the time","Strong","More than 60 minutes",5,1,5,5,"1",1,"Health scare","2015-06-26 10:59:14","BupaQuit_B",2015-06-26
+"362",8191,"male",64,"United Kingdom","Unemployed or retired",1,"No","Yes","A lot of the time","Strong","6-30 minutes",5,1,20,56,"1",1,"999","2015-06-26 16:11:43","BupaQuit_B",2015-06-26
+"363",8201,"male",22,"United Kingdom","Student",1,"No","No","A lot of the time","Extremely strong","Within 5 minutes",6,1,12,20,"1",6,"Plus to stop having panic attacks","2015-06-26 19:00:24","BupaQuit_B",2015-06-26
+"367",8241,"male",34,"United Kingdom","Manual work",1,"Yes","Yes","A lot of the time","Strong","Within 5 minutes",5,1,30,80,"1",2,"999","2015-06-27 09:48:03","BupaQuit_A",2015-06-27
+"370",8261,"male",31,"United Kingdom","Manual work",1,"No","Yes","All the time","Moderate","6-30 minutes",5,1,15,50,"1",3,"999","2015-06-28 10:20:30","BupaQuit_B",2015-06-28
+"371",8271,"male",19,"United Kingdom","Student",1,"Yes","Yes","Some of the time","Moderate","More than 60 minutes",3,1,3,8,"1",1,"999","2015-06-28 14:27:49","BupaQuit_A",2015-06-28
+"372",8321,"female",53,"United Kingdom","Non-manual work",1,"No","No","Not at all","Not indicated","Within 5 minutes",4,1,1,180,"1",1,"999","2015-07-01 06:49:21","BupaQuit_B",2015-07-01
+"377",8391,"male",24,"United Kingdom","Manual work",1,"Yes","Yes","A lot of the time","Very strong","Within 5 minutes",5,1,19,8,"1",2,"999","2015-07-04 09:57:16","BupaQuit_B",2015-07-04
+"379",8401,"male",20,"United Kingdom","Student",1,"Yes","No","Some of the time","Moderate","6-30 minutes",6,1,6,8,"1",1,"999","2015-07-04 13:35:51","BupaQuit_B",2015-07-04
+"381",8411,"male",20,"United Kingdom","Manual work",1,"No","No","Some of the time","Moderate","6-30 minutes",4,1,5,20,"1",2,"999","2015-07-07 10:40:12","BupaQuit_B",2015-07-07
+"383",8441,"female",54,"United Kingdom","Manual work",2,"No","No","Almost always","Strong","Within 5 minutes",999,1,20,56,"1",2,"999","2015-07-12 19:05:04","BupaQuit_B",2015-07-12
+"386",8501,"male",33,"United Kingdom","Non-manual work",1,"Yes","Yes","Some of the time","Moderate","31-60 minutes",5,1,10,15,"1",1,"999","2015-07-26 10:16:20","BupaQuit_A",2015-07-26
+"387",8511,"male",47,"United Kingdom","Non-manual work",1,"Yes","Yes","A lot of the time","Very strong","Within 5 minutes",3,1,15,50,"1",1,"999","2015-07-30 19:15:26","BupaQuit_B",2015-07-30
+"388",8521,"female",20,"United Kingdom","Manual work",1,"Yes","Yes","Some of the time","Strong","31-60 minutes",5,1,8,10,"1",1,"999","2015-08-02 16:34:57","BupaQuit_B",2015-08-02
+"390",8541,"female",22,"United Kingdom","Manual work",1,"Yes","No","A lot of the time","Strong","6-30 minutes",4,1,15,30,"1",2,"999","2015-08-07 09:14:22","BupaQuit_A",2015-08-07
+"391",8571,"female",54,"United Kingdom","Non-manual work",1,"No","Yes","A lot of the time","Strong","31-60 minutes",7,1,15,20,"1",5,"999","2015-08-15 16:59:26","BupaQuit_A",2015-08-15
+"394",8601,"female",54,"United Kingdom","Manual work",1,"No","Yes","Some of the time","Moderate","31-60 minutes",4,1,15,40,"1",6,"999","2015-08-24 06:41:31","BupaQuit_A",2015-08-24
+"398",8621,"female",21,"United Kingdom","Non-manual work",1,"No","No","A little of the time","Strong","Within 5 minutes",5,1,20,50,"1",2,"999","2015-08-27 14:02:35","BupaQuit_B",2015-08-27
+"400",8651,"female",28,"United Kingdom","Unemployed or retired",1,"No","Yes","Some of the time","Moderate","Within 5 minutes",3,1,10,40,"1",1,"Money","2015-09-02 13:17:02","BupaQuit_B",2015-09-02
